@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohak Tandon</h1>
 
 <h3 align="center">A passionate frontend developer from India and a Code Enthusiast.</h3>
-<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1677059279~exp=1677059879~hmac=6ecd899eeae4fc6341afdbaeb808fdf2d783b8f908dee58fc81d6a2d51227ed9' width=240 align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/1197/1197409.png" width=250 align='right'>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak973&label=Profile%20views&color=0e75b6&style=flat" alt="mohak973" /> </p>
