@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohak Tandon</h1>
 
 <h3 align="center">A passionate frontend developer from India and a Code Enthusiast.</h3>
-<img src="https://cdn-icons-png.flaticon.com/512/1197/1197409.png" width=250 align='right'>
+<div style="margin-left: 200px;" width=100%>
+<img src="https://cdn-icons-png.flaticon.com/512/1197/1197409.png" width=250 align='right' >
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak973&label=Profile%20views&color=0e75b6&style=flat" alt="mohak973" /> </p>
