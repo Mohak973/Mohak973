@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India and a Code Enthusiast.</h3>
 
-<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1677050467~exp=1677051067~hmac=7e8bba960ae7e5b6ac0383c76faf4c0ba82f19719fd0d95499f901da5e13d457' width=300 align="right"  >
+<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1677050467~exp=1677051067~hmac=7e8bba960ae7e5b6ac0383c76faf4c0ba82f19719fd0d95499f901da5e13d457' width=280 align="right"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak973&label=Profile%20views&color=0e75b6&style=flat" alt="mohak973" /> </p>
 
